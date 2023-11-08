@@ -1,0 +1,26 @@
+.heart1{
+   width:30px;
+   height: 47px;
+   background-color: red;
+top:72px;
+   position:relative;
+   left:279px;
+   border-top-right-radius: 41px; 
+   border-top-left-radius: 38px; 
+   transform: rotate(51deg);
+}
+.heart2{
+   position:relative;
+   top:25px;
+   width:30px;
+   left:260px;
+   height:47px;
+   background-color:red;
+   transform: rotate(-54deg);
+
+
+   border-top-right-radius: 41px; 
+   border-top-left-radius: 38px; 
+   
+
+}
